@@ -1,0 +1,8 @@
+public class App {
+    public static void main(String[] args) throws Exception {
+        System.out.println("\n");
+        System.out.println("\tHello, World!\n");
+        System.out.println("\tThis is my favorite phrase:\n");
+        System.out.format("%30s%n","John 1:5 says that the light shines in the darkness and the darkness cannot overcome it.\n");
+    }
+}
